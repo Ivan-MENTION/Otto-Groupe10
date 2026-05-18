@@ -10,11 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Ce proget est le second proget d'etude de cette premiere annee d'etude, le premier etant le proget catapulte. Sauf que se second proget amener une nouvelle couche de complexiter avec de la programation.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+L'ojectif de ce proget est de refaire un petit robot nomme OTTO et de le programmer. Puis dans une second pratie c'estde modifeir l'OTTO comme on le souhaite en fesant attention de recpect le cahier des charges.
 
 # Existant
 
